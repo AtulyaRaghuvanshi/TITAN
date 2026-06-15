@@ -1,0 +1,82 @@
+[
+  {
+    "q": "Can I get a loan with a low CIBIL score?",
+    "a": "Having a higher CIBIL score helps, but a lower score does not automatically disqualify you. We also look at your repayment capacity, income stability, and existing obligations. You may also apply jointly with a spouse or parent to strengthen eligibility."
+  },
+  {
+    "q": "What documents are required for a personal loan?",
+    "a": "Typically PAN, Aadhaar/address proof, and income proof such as salary slips or bank statements. Requirements may vary by profile; we will guide you step by step."
+  },
+  {
+    "q": "How is my EMI calculated?",
+    "a": "EMI depends on loan amount, interest rate, and tenure. We compute it using the standard amortization formula and share the exact figure before you confirm."
+  },
+  {
+    "q": "How long does approval take?",
+    "a": "For pre‑approved customers, approval can be near‑instant. Otherwise, once KYC and income verification are completed, approval typically takes 1–2 working days."
+  },
+  {
+    "q": "Is there a processing fee?",
+    "a": "Yes, a small percentage of the sanctioned amount is charged as a processing fee. We display the exact fee along with the offer before you proceed."
+  },
+  {
+    "q": "Are there prepayment or foreclosure charges?",
+    "a": "Many products allow part‑prepayment/foreclosure after a minimum period. Charges vary by product. We will state applicable charges in your sanction terms."
+  },
+  {
+    "q": "What is the maximum tenure I can choose?",
+    "a": "Common options are 12–60 months. The suitable tenure depends on your income profile and product policy."
+  },
+  {
+    "q": "Can I change the loan amount or tenure later?",
+    "a": "You can change the requested amount or tenure before final confirmation. After sanction, changes would require a fresh evaluation."
+  },
+  {
+    "q": "Will applying affect my credit score?",
+    "a": "A soft check may not impact your score, but a final credit bureau pull can be a hard inquiry. Responsible borrowing and timely repayments help maintain a good score."
+  },
+  {
+    "q": "What happens if my application is rejected?",
+    "a": "We will share the reason where possible. You may re‑apply after improving your profile, such as reducing obligations, increasing income, or applying jointly."
+  },
+  {
+    "q": "Can I apply without salary slips?",
+    "a": "If salary slips are unavailable, we may accept alternate income proofs such as bank statements or ITRs, depending on the product."
+  },
+  {
+    "q": "Is my data secure?",
+    "a": "We follow strict security and privacy controls. Your data is used only for evaluating and servicing your loan application."
+  },
+  {
+    "q": "Do you offer top‑up loans?",
+    "a": "Top‑ups may be available for eligible customers with a good repayment track record. We can check eligibility after your current loan is onboarded."
+  },
+  {
+    "q": "What interest rate will I get?",
+    "a": "Rates depend on your profile, credit score, and policies in effect. We always present the applicable rate transparently before you proceed."
+  },
+  {
+    "q": "Can I track my application status?",
+    "a": "Yes, you will receive updates at each stage. You can also check status in the app/portal or reach out via this assistant."
+  },
+  {
+    "q": "Is there a minimum income requirement?",
+    "a": "Minimum income varies by city and product. We evaluate your FOIR (Fixed Obligation to Income Ratio) and repayment capacity to decide eligibility."
+  },
+  {
+    "q": "What if I entered a wrong detail?",
+    "a": "Please let us know which detail to correct (name, amount, tenure, etc.). We will update it before moving ahead."
+  },
+  {
+    "q": "Do you offer loans to self‑employed customers?",
+    "a": "Yes, we do. We will need suitable financial documents like bank statements and ITRs, and terms may differ from salaried profiles."
+  },
+  {
+    "q": "When will funds be disbursed?",
+    "a": "After final approval and documentation, disbursal typically happens within 1–2 working days."
+  },
+  {
+    "q": "Can I add a co‑applicant?",
+    "a": "Yes. Adding a co‑applicant such as a spouse or parent can improve eligibility in certain cases."
+  }
+]

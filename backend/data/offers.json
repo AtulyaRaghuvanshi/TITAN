@@ -1,0 +1,87 @@
+[
+  {
+    "customer_id": "C001",
+    "max_amount": 500000,
+    "tenure_options": [12, 24, 36],
+    "base_interest": 13.5,
+    "processing_fee_pct": 1.0
+  },
+  {
+    "customer_id": "C002",
+    "max_amount": 300000,
+    "tenure_options": [12, 24, 36],
+    "base_interest": 14.25,
+    "processing_fee_pct": 1.2
+  },
+  {
+    "customer_id": "C003",
+    "max_amount": 800000,
+    "tenure_options": [12, 24, 36, 48],
+    "base_interest": 12.75,
+    "processing_fee_pct": 0.9
+  },
+  {
+    "customer_id": "C004",
+    "max_amount": 600000,
+    "tenure_options": [12, 24, 36],
+    "base_interest": 13.0,
+    "processing_fee_pct": 1.0
+  },
+  {
+    "customer_id": "C005",
+    "max_amount": 1000000,
+    "tenure_options": [12, 24, 36, 48, 60],
+    "base_interest": 12.5,
+    "processing_fee_pct": 0.8
+  },
+  {
+    "customer_id": "C006",
+    "max_amount": 400000,
+    "tenure_options": [12, 24, 36],
+    "base_interest": 14.0,
+    "processing_fee_pct": 1.1
+  },
+  {
+    "customer_id": "C007",
+    "max_amount": 700000,
+    "tenure_options": [12, 24, 36, 48],
+    "base_interest": 12.9,
+    "processing_fee_pct": 0.95
+  },
+  {
+    "customer_id": "C008",
+    "max_amount": 450000,
+    "tenure_options": [12, 24, 36],
+    "base_interest": 13.75,
+    "processing_fee_pct": 1.0
+  },
+  {
+    "customer_id": "C009",
+    "max_amount": 650000,
+    "tenure_options": [12, 24, 36, 48],
+    "base_interest": 13.25,
+    "processing_fee_pct": 0.95
+  },
+  {
+    "customer_id": "C010",
+    "max_amount": 550000,
+    "tenure_options": [12, 24, 36],
+    "base_interest": 13.5,
+    "processing_fee_pct": 1.0
+  },
+  {
+    "customer_id": "C011",
+    "max_amount": 350000,
+    "tenure_options": [12, 24, 36],
+    "base_interest": 14.5,
+    "processing_fee_pct": 1.2
+  },
+  {
+    "customer_id": "C012",
+    "max_amount": 580000,
+    "tenure_options": [12, 24, 36],
+    "base_interest": 13.0,
+    "processing_fee_pct": 1.0
+  }
+]
+

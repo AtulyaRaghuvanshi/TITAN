@@ -1,0 +1,84 @@
+[
+  {
+    "customer_id": "C001",
+    "pan": "ABCDE1234F",
+    "aadhaar_masked": "XXXX-XXXX-1234",
+    "kyc_status": "COMPLETED",
+    "kyc_last_updated": "2024-10-01"
+  },
+  {
+    "customer_id": "C002",
+    "pan": "PQRSX5678Z",
+    "aadhaar_masked": "XXXX-XXXX-5678",
+    "kyc_status": "PENDING"
+  },
+  {
+    "customer_id": "C003",
+    "pan": "WXYZM9012K",
+    "aadhaar_masked": "XXXX-XXXX-9012",
+    "kyc_status": "COMPLETED",
+    "kyc_last_updated": "2024-09-15"
+  },
+  {
+    "customer_id": "C004",
+    "pan": "LMNOP3456R",
+    "aadhaar_masked": "XXXX-XXXX-3456",
+    "kyc_status": "COMPLETED",
+    "kyc_last_updated": "2024-10-10"
+  },
+  {
+    "customer_id": "C005",
+    "pan": "STUVW7890Y",
+    "aadhaar_masked": "XXXX-XXXX-7890",
+    "kyc_status": "COMPLETED",
+    "kyc_last_updated": "2024-08-20"
+  },
+  {
+    "customer_id": "C006",
+    "pan": "FGHIJ2345M",
+    "aadhaar_masked": "XXXX-XXXX-2345",
+    "kyc_status": "PENDING"
+  },
+  {
+    "customer_id": "C007",
+    "pan": "NOPQR6789T",
+    "aadhaar_masked": "XXXX-XXXX-6789",
+    "kyc_status": "COMPLETED",
+    "kyc_last_updated": "2024-09-25"
+  },
+  {
+    "customer_id": "C008",
+    "pan": "KLMNO0123P",
+    "aadhaar_masked": "XXXX-XXXX-0123",
+    "kyc_status": "COMPLETED",
+    "kyc_last_updated": "2024-10-05"
+  },
+  {
+    "customer_id": "C009",
+    "pan": "ABCDE4567Q",
+    "aadhaar_masked": "XXXX-XXXX-4567",
+    "kyc_status": "COMPLETED",
+    "kyc_last_updated": "2024-09-30"
+  },
+  {
+    "customer_id": "C010",
+    "pan": "FGHIJ8901S",
+    "aadhaar_masked": "XXXX-XXXX-8901",
+    "kyc_status": "COMPLETED",
+    "kyc_last_updated": "2024-10-12"
+  },
+  {
+    "customer_id": "C011",
+    "pan": "STUVW2345N",
+    "aadhaar_masked": "XXXX-XXXX-2345",
+    "kyc_status": "PENDING"
+  },
+  {
+    "customer_id": "C012",
+    "pan": "WXYZM5678L",
+    "aadhaar_masked": "XXXX-XXXX-5678",
+    "kyc_status": "COMPLETED",
+    "kyc_last_updated": "2024-10-08"
+  }
+]
+

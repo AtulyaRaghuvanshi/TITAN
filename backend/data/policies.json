@@ -1,0 +1,37 @@
+[
+  {
+    "policy_id": "POL001",
+    "policy_name": "Credit Score Threshold",
+    "description": "Minimum credit score requirements for auto-approval and referral",
+    "config": {
+      "min_credit_score_auto_approve": 720,
+      "min_credit_score_refer": 650
+    }
+  },
+  {
+    "policy_id": "POL002",
+    "policy_name": "FOIR Limits",
+    "description": "Fixed Obligation to Income Ratio limits for approval decisions",
+    "config": {
+      "max_foir_auto_approve": 0.5,
+      "max_foir_refer": 0.6
+    }
+  },
+  {
+    "policy_id": "POL003",
+    "policy_name": "Minimum Income",
+    "description": "Minimum monthly income requirement for loan eligibility",
+    "config": {
+      "min_monthly_income": 30000
+    }
+  },
+  {
+    "policy_id": "POL004",
+    "policy_name": "Maximum Tenure",
+    "description": "Maximum loan tenure in months",
+    "config": {
+      "max_tenure_months": 60
+    }
+  }
+]
+
