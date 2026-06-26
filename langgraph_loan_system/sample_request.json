@@ -1,0 +1,17 @@
+{
+  "customer_id": "CUST-001",
+  "name": "Aarav Sharma",
+  "age": 31,
+  "monthly_income": 85000,
+  "existing_monthly_emi": 18000,
+  "requested_amount": 700000,
+  "tenure_months": 48,
+  "credit_score": 735,
+  "employment_type": "salaried",
+  "documents": {
+    "pan": true,
+    "aadhaar": true,
+    "bank_statement": true
+  }
+}
+
